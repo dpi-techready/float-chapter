@@ -5,4 +5,9 @@
 # 
 # 5.3
 
+a = 2.8
+b = 4.5
+
+puts Math.hypot(a, b)
+
 
